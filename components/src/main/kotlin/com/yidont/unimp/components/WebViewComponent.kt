@@ -1,4 +1,4 @@
-package com.yidont.unimp.component
+package com.yidont.unimp.components
 
 import android.Manifest
 import android.annotation.SuppressLint

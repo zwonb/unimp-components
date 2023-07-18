@@ -3,7 +3,7 @@ package com.yidont.unimp.components.demo
 import android.util.Log
 import androidx.multidex.MultiDexApplication
 import com.taobao.weex.WXSDKEngine
-import com.yidont.unimp.component.WebViewComponent
+import com.yidont.unimp.components.WebViewComponent
 import com.yidont.unimp.modules.AppModule
 import com.yidont.unimp.modules.FileModule
 import com.yidont.unimp.modules.NotificationModule
