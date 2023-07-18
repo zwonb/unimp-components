@@ -68,7 +68,7 @@ fun MainPage(viewModel: MainViewModel) {
 @Composable
 private fun LogoImg(onClick: () -> Unit) {
     Text(
-        "unimp modules",
+        "unimp components",
         Modifier.padding(top = 24.dp),
         style = MaterialTheme.typography.bodyLarge
     )
